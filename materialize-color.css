@@ -1,0 +1,35 @@
+:root {
+    --materialize-color: #666;
+    --materialize-color-light-1: #777;
+    --materialize-color-light-2: #888;
+    --materialize-color-light-3: #999;
+    --materialize-color-light-4: #AAA;
+    --materialize-color-light-5: #EEE;
+}
+
+.materialize-color-blue {
+    --materialize-color: #2196f3;
+    --materialize-color-light-1: #42a5f5;
+    --materialize-color-light-2: #64b5f6;
+    --materialize-color-light-3: #90caf9;
+    --materialize-color-light-4: #bbdefb;
+    --materialize-color-light-5: #e3f2fd;
+}
+
+.materialize-color-red {
+    --materialize-color: #f44336;
+    --materialize-color-light-1: #ef5350;
+    --materialize-color-light-2: #e57373;
+    --materialize-color-light-3: #ef9a9a;
+    --materialize-color-light-4: #ffcdd2;
+    --materialize-color-light-5: #ffebee;
+}
+
+.materialize-color-grass {
+    --materialize-color: #8bc34a;
+    --materialize-color-light-1: #9ccc65;
+    --materialize-color-light-2: #aed581;
+    --materialize-color-light-3: #c5e1a5;
+    --materialize-color-light-4: #dcedc8;
+    --materialize-color-light-5: #f1f8e9;
+}
