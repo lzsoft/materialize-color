@@ -1,15 +1,15 @@
 :root,
 .materialize-color-black {
-    --materialize-color-lighten-5: #EEE;
-    --materialize-color-lighten-4: #AAA;
-    --materialize-color-lighten-3: #999;
-    --materialize-color-lighten-2: #888;
-    --materialize-color-lighten-1: #777;
+    --materialize-color-lighten-5: #e8e8e8;
+    --materialize-color-lighten-4: #cecece;
+    --materialize-color-lighten-3: #b4b4b4;
+    --materialize-color-lighten-2: #9a9a9a;
+    --materialize-color-lighten-1: #808080;
     --materialize-color: #666;
-    --materialize-color-darken-1: #555;
-    --materialize-color-darken-2: #444;
-    --materialize-color-darken-3: #333;
-    --materialize-color-darken-4: #222;
+    --materialize-color-darken-1: #4c4c4c;
+    --materialize-color-darken-2: #323232;
+    --materialize-color-darken-3: #181818;
+    --materialize-color-darken-4: #000000;
 }
 
 .materialize-color-blue {
