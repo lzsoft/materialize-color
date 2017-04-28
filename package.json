@@ -1,6 +1,7 @@
 {
     "name": "materialize-color",
     "main": "materialize-color.css",
+    "version": "1.0.0",
     "license": "MIT",
     "homepage": "https://github.com/tingting-io/materialize-color",
     "flat": true
