@@ -103,3 +103,15 @@
     --materialize-color-darken-3: #37474f;
     --materialize-color-darken-4: #263238;
 }
+.materialize-color-white {
+    --materialize-color-lighten-5: rgba(255, 255, 255, 0.5);
+    --materialize-color-lighten-4: rgba(255, 255, 255, 0.6);
+    --materialize-color-lighten-3: rgba(255, 255, 255, 0.7);
+    --materialize-color-lighten-2: rgba(255, 255, 255, 0.8);
+    --materialize-color-lighten-1: rgba(255, 255, 255, 0.9);
+    --materialize-color: #FFFFFF;
+    --materialize-color-darken-1: #FFFFFF;
+    --materialize-color-darken-2: #FFFFFF;
+    --materialize-color-darken-3: #FFFFFF;
+    --materialize-color-darken-4: #FFFFFF;
+}
