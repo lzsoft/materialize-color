@@ -110,8 +110,8 @@
     --materialize-color-lighten-2: rgba(255, 255, 255, 0.8);
     --materialize-color-lighten-1: rgba(255, 255, 255, 0.9);
     --materialize-color: #FFFFFF;
-    --materialize-color-darken-1: #FFFFFF;
-    --materialize-color-darken-2: #FFFFFF;
-    --materialize-color-darken-3: #FFFFFF;
-    --materialize-color-darken-4: #FFFFFF;
+    --materialize-color-darken-1: #4c4c4c;
+    --materialize-color-darken-2: #323232;
+    --materialize-color-darken-3: #181818;
+    --materialize-color-darken-4: #000000;
 }
