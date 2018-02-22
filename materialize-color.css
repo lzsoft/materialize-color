@@ -5,8 +5,8 @@
     --materialize-color-linkedin: #0077b5;
     --materialize-color-google-plus: #dd4b39;
 }
-:root,
-.materialize-color-black {
+.materialize-color-black,
+:root {
     --materialize-color-lighten-6: #f6f6f6;
     --materialize-color-lighten-5: #e8e8e8;
     --materialize-color-lighten-4: #cecece;
@@ -20,6 +20,7 @@
     --materialize-color-darken-4: #000000;
 }
 .materialize-color-blue {
+    --materialize-color-lighten-6: #F1F9FE;
     --materialize-color-lighten-5: #e3f2fd;
     --materialize-color-lighten-4: #bbdefb;
     --materialize-color-lighten-3: #90caf9;
@@ -32,6 +33,7 @@
     --materialize-color-darken-4: #0d47a1;
 }
 .materialize-color-red {
+    --materialize-color-lighten-6: #FFF5F7;
     --materialize-color-lighten-5: #ffebee;
     --materialize-color-lighten-4: #ffcdd2;
     --materialize-color-lighten-3: #ef9a9a;
@@ -44,6 +46,7 @@
     --materialize-color-darken-4: #b71c1c;
 }
 .materialize-color-light-green {
+    --materialize-color-lighten-6: #F8FCF4;
     --materialize-color-lighten-5: #f1f8e9;
     --materialize-color-lighten-4: #dcedc8;
     --materialize-color-lighten-3: #c5e1a5;
@@ -56,6 +59,7 @@
     --materialize-color-darken-4: #33691e;
 }
 .materialize-color-yellow {
+    --materialize-color-lighten-6: #FFFEF3;
     --materialize-color-lighten-5: #fffde7;
     --materialize-color-lighten-4: #fff9c4;
     --materialize-color-lighten-3: #fff59d;
@@ -68,6 +72,7 @@
     --materialize-color-darken-4: #f57f17;
 }
 .materialize-color-orange {
+    --materialize-color-lighten-6: #FFF9F0;
     --materialize-color-lighten-5: #fff3e0;
     --materialize-color-lighten-4: #ffe0b2;
     --materialize-color-lighten-3: #ffcc80;
@@ -80,6 +85,7 @@
     --materialize-color-darken-4: #e65100;
 }
 .materialize-color-indigo {
+    --materialize-color-lighten-6: #F4F5FB;
     --materialize-color-lighten-5: #e8eaf6;
     --materialize-color-lighten-4: #c5cae9;
     --materialize-color-lighten-3: #9fa8da;
@@ -92,6 +98,7 @@
     --materialize-color-darken-4: #1a237e;
 }
 .materialize-color-blue-gray {
+    --materialize-color-lighten-6: #F6F7F8;
     --materialize-color-lighten-5: #eceff1;
     --materialize-color-lighten-4: #cfd8dc;
     --materialize-color-lighten-3: #b0bec5;
@@ -104,6 +111,7 @@
     --materialize-color-darken-4: #263238;
 }
 .materialize-color-white {
+    --materialize-color-lighten-6: rgba(255, 255, 255, 0.4);
     --materialize-color-lighten-5: rgba(255, 255, 255, 0.5);
     --materialize-color-lighten-4: rgba(255, 255, 255, 0.6);
     --materialize-color-lighten-3: rgba(255, 255, 255, 0.7);
