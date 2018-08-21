@@ -5,6 +5,7 @@
     --materialize-color-linkedin: #0077b5;
     --materialize-color-google-plus: #dd4b39;
 }
+
 .materialize-color-black,
 :root {
     --materialize-color-lighten-6: #f6f6f6;
@@ -19,6 +20,7 @@
     --materialize-color-darken-3: #181818;
     --materialize-color-darken-4: #000000;
 }
+
 .materialize-color-blue {
     --materialize-color-lighten-6: #F1F9FE;
     --materialize-color-lighten-5: #e3f2fd;
@@ -32,6 +34,7 @@
     --materialize-color-darken-3: #1565c0;
     --materialize-color-darken-4: #0d47a1;
 }
+
 .materialize-color-red {
     --materialize-color-lighten-6: #FFF5F7;
     --materialize-color-lighten-5: #ffebee;
@@ -45,6 +48,7 @@
     --materialize-color-darken-3: #c62828;
     --materialize-color-darken-4: #b71c1c;
 }
+
 .materialize-color-light-green {
     --materialize-color-lighten-6: #F8FCF4;
     --materialize-color-lighten-5: #f1f8e9;
@@ -58,6 +62,7 @@
     --materialize-color-darken-3: #558b2f;
     --materialize-color-darken-4: #33691e;
 }
+
 .materialize-color-yellow {
     --materialize-color-lighten-6: #FFFEF3;
     --materialize-color-lighten-5: #fffde7;
@@ -71,6 +76,7 @@
     --materialize-color-darken-3: #f9a825;
     --materialize-color-darken-4: #f57f17;
 }
+
 .materialize-color-orange {
     --materialize-color-lighten-6: #FFF9F0;
     --materialize-color-lighten-5: #fff3e0;
@@ -84,6 +90,7 @@
     --materialize-color-darken-3: #ef6c00;
     --materialize-color-darken-4: #e65100;
 }
+
 .materialize-color-indigo {
     --materialize-color-lighten-6: #F4F5FB;
     --materialize-color-lighten-5: #e8eaf6;
@@ -97,6 +104,7 @@
     --materialize-color-darken-3: #283593;
     --materialize-color-darken-4: #1a237e;
 }
+
 .materialize-color-blue-gray {
     --materialize-color-lighten-6: #F6F7F8;
     --materialize-color-lighten-5: #eceff1;
@@ -110,6 +118,7 @@
     --materialize-color-darken-3: #37474f;
     --materialize-color-darken-4: #263238;
 }
+
 .materialize-color-white {
     --materialize-color-lighten-6: rgba(255, 255, 255, 0.4);
     --materialize-color-lighten-5: rgba(255, 255, 255, 0.5);
@@ -123,6 +132,7 @@
     --materialize-color-darken-3: #181818;
     --materialize-color-darken-4: #000000;
 }
+
 .materialize-color-pink {
     --materialize-color-lighten-6: #FEF2F6;
     --materialize-color-lighten-5: #fce4ec;
@@ -136,6 +146,7 @@
     --materialize-color-darken-3: #ad1457;
     --materialize-color-darken-4: #880e4f;
 }
+
 .materialize-color-purple {
     --materialize-color-lighten-6: #F9F2FA;
     --materialize-color-lighten-5: #f3e5f5;
